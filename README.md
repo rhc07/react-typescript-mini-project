@@ -1,4 +1,4 @@
-# React Typescript Practice
+# React Typescript Mini Project
 
 ### Setup
 
